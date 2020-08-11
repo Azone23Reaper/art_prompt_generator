@@ -7,5 +7,3 @@
 #
 # desc: <insert description of the function here. describe the function before
 #   creating.>
-def get_user_input():
-    pass
