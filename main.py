@@ -8,6 +8,7 @@
 
 ### imports ###
 # insert imports here
+#   ensure there are no overlaps
 
 ###############
 
@@ -20,7 +21,82 @@
 #################### FUNCTIONS ####################
 
 
+# !author: <insert name>
+# name: hard_prompt()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def draw_challenge():
+    pass
 
+
+# !author: <insert name>
+# name: hard_prompt()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def hard_prompt():
+    pass
+
+
+# !author: <insert name>
+# name: medium_prompt()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def medium_prompt():
+    pass
+
+
+# !author: <insert name>
+# name: simple_prompt()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def easy_prompt():
+    pass
+
+
+# !author: <insert name>
+# name: validate_user_input()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def validate_user_input():
+    pass
+
+
+# !author: <insert name>
+# name: get_user_input()
+# parameters
+#   <insert parameters if any>
+# return values
+#   <insert return values if any>
+#
+# desc: <insert description of the function here. describe the function before
+#   creating.>
+def get_user_input():
+    pass
 
 
 # !author: ALL
