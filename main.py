@@ -1,5 +1,5 @@
 # !author: <insert name>
-# name: hard_prompt()
+# name: draw_challenge()
 # parameters
 #   <insert parameters if any>
 # return values
