@@ -7,12 +7,17 @@
 ### imports ###
 # insert imports here
 #   ensure there are no overlaps
-
+import random 
 ###############
 
 ##### GLOBALS #####
 # insert global variables here, explain what they are with comments
 #   and include what type they are, and/or expected to be. include who made them
+prompt = open("prompt.txt","w")
+promptOpen = open("prompt.txt","r+")
+uInput = input("")
+
+
 
 ###################
 
